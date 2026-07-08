@@ -8,7 +8,7 @@ Based in Limassol, Cyprus 🇨🇾
 
 I'm a Cyprus-based technology entrepreneur and investor. In 2005 I founded Servers.com, a global cloud and hosting platform, and led it until its acquisition by CloudOne Digital in 2023. I co-founded [Palta](https://palta.com), a health and well-being venture studio behind apps like Flo and Simple, and I'm a founding member of [TechIsland](https://thetechisland.org), Cyprus's largest tech association.
 
-Outside of tech I co-founder with my wife of  [City Friends Club](https://cityfriends.club), an eco-charity, and [MadWay Rally](https://madwayrally.com), an adventure rally project.
+Outside of tech, together with my wife I co-founded  [City Friends Club](https://cityfriends.club), an eco-charity, and [MadWay Rally](https://madwayrally.com), an adventure rally project.
 
 ## Focus
 
