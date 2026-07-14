@@ -23,7 +23,6 @@ Outside of tech, together with my wife I co-founded  [City Friends Club](https:/
 - 💼 LinkedIn: [in/alexey-gubarev](https://www.linkedin.com/in/alexey-gubarev/)
 - 🐦 X: [@gubarev](https://x.com/gubarev)
 - 📊 Crunchbase: [alexey-gubarev](https://www.crunchbase.com/person/alexey-gubarev)
-- ✍️ Medium: [@alexey-gubarev](https://medium.com/@alexey-gubarev)
 - ▶️ YouTube: [@Alexey-Gubarev](https://www.youtube.com/@Alexey-Gubarev)
 - 📘 Facebook: [gubarev](https://www.facebook.com/gubarev/)
 - ❓ Quora: [Alexey-Gubarev-2](https://www.quora.com/profile/Alexey-Gubarev-2) Github profile readmeDocument · MD 
