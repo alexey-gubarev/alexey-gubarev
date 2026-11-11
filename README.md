@@ -27,3 +27,4 @@ Outside of tech, together with my wife I co-founded  [City Friends Club](https:/
 - 📘 Facebook: [gubarev](https://www.facebook.com/gubarev/)
 - ❓ Quora: [Alexey-Gubarev-2](https://www.quora.com/profile/Alexey-Gubarev-2) 
 - 📰 Muck Rack: [alexey-gubarev](https://muckrack.com/alexey-gubarev)
+- 🗂️ Authory: [AlexeyGubarev](https://authory.com/AlexeyGubarev)
